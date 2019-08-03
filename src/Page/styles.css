@@ -1,5 +1,6 @@
 h1{
     text-align: center;
+    margin-top : 20px;
 }
 a{
     text-align: center;
@@ -26,10 +27,10 @@ a{
 
 .ul1{
     text-align: center;
+    margin-top: 20px;
     margin-right: 35px;
 }
 
 .ul2{
-    margin-right: 35px;
     margin-top: 20px;
 }
