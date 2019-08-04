@@ -25,6 +25,11 @@ a{
     background-color: red;
 }
 
+.Button#dis{
+    pointer-events: none;
+    opacity: .5;
+}
+
 .ul1{
     text-align: center;
     margin-top: 20px;
