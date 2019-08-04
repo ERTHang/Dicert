@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Dicert-mini-project/static/css/main.84c9add1.chunk.css",
-    "main.js": "/Dicert-mini-project/static/js/main.93c4120c.chunk.js",
-    "main.js.map": "/Dicert-mini-project/static/js/main.93c4120c.chunk.js.map",
-    "runtime~main.js": "/Dicert-mini-project/static/js/runtime~main.93053338.js",
-    "runtime~main.js.map": "/Dicert-mini-project/static/js/runtime~main.93053338.js.map",
-    "static/js/2.d6a534e5.chunk.js": "/Dicert-mini-project/static/js/2.d6a534e5.chunk.js",
-    "static/js/2.d6a534e5.chunk.js.map": "/Dicert-mini-project/static/js/2.d6a534e5.chunk.js.map",
-    "index.html": "/Dicert-mini-project/index.html",
-    "precache-manifest.e24300b5a5691108282ade341337c4b4.js": "/Dicert-mini-project/precache-manifest.e24300b5a5691108282ade341337c4b4.js",
-    "service-worker.js": "/Dicert-mini-project/service-worker.js",
-    "static/css/main.84c9add1.chunk.css.map": "/Dicert-mini-project/static/css/main.84c9add1.chunk.css.map"
+    "main.css": "/Dicert/static/css/main.84c9add1.chunk.css",
+    "main.js": "/Dicert/static/js/main.93c4120c.chunk.js",
+    "main.js.map": "/Dicert/static/js/main.93c4120c.chunk.js.map",
+    "runtime~main.js": "/Dicert/static/js/runtime~main.52e98d21.js",
+    "runtime~main.js.map": "/Dicert/static/js/runtime~main.52e98d21.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/Dicert/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/Dicert/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/Dicert/index.html",
+    "precache-manifest.ae48e52d28de4f60a1dedbbc7cbdac4e.js": "/Dicert/precache-manifest.ae48e52d28de4f60a1dedbbc7cbdac4e.js",
+    "service-worker.js": "/Dicert/service-worker.js",
+    "static/css/main.84c9add1.chunk.css.map": "/Dicert/static/css/main.84c9add1.chunk.css.map"
   }
 }
