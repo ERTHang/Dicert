@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Dicert/static/css/main.84c9add1.chunk.css",
+    "main.css": "/Dicert/static/css/main.865965b7.chunk.css",
     "main.js": "/Dicert/static/js/main.93c4120c.chunk.js",
     "main.js.map": "/Dicert/static/js/main.93c4120c.chunk.js.map",
     "runtime~main.js": "/Dicert/static/js/runtime~main.52e98d21.js",
@@ -8,8 +8,8 @@
     "static/js/2.d6a534e5.chunk.js": "/Dicert/static/js/2.d6a534e5.chunk.js",
     "static/js/2.d6a534e5.chunk.js.map": "/Dicert/static/js/2.d6a534e5.chunk.js.map",
     "index.html": "/Dicert/index.html",
-    "precache-manifest.ae48e52d28de4f60a1dedbbc7cbdac4e.js": "/Dicert/precache-manifest.ae48e52d28de4f60a1dedbbc7cbdac4e.js",
+    "precache-manifest.8486c35a327a62dd257992d689905fd4.js": "/Dicert/precache-manifest.8486c35a327a62dd257992d689905fd4.js",
     "service-worker.js": "/Dicert/service-worker.js",
-    "static/css/main.84c9add1.chunk.css.map": "/Dicert/static/css/main.84c9add1.chunk.css.map"
+    "static/css/main.865965b7.chunk.css.map": "/Dicert/static/css/main.865965b7.chunk.css.map"
   }
 }
